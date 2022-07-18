@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56147771083",
+    "project_id": "ilias-c2adb",
+    "storage_bucket": "ilias-c2adb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56147771083:android:fc856c5ce9cfc61e56a54e",
+        "android_client_info": {
+          "package_name": "com.company.ilias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56147771083-j8q0d58d1uegk0utv3lvvv51d2ia1h4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.ilias",
+            "certificate_hash": "fe4e9bc1c7296759fc9245eed3eb89e82f4db492"
+          }
+        },
+        {
+          "client_id": "56147771083-jdmsr6duidvlvsgrhohnfsmego1av4hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchs9EiR6xWttlMzkAaToI6jWSSJ00_jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56147771083-jdmsr6duidvlvsgrhohnfsmego1av4hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
